@@ -8,6 +8,8 @@ https://www.tinkercad.com/things/k6paDEGVuDn-solar-car-circuit
 
 ![image](https://github.com/jasonngai01/Solar_Car_for_STEAM_education-/blob/main/pic/circuit.jpg)
 
+[![Watch the video](https://github.com/jasonngai01/Solar_Car_for_STEAM_education/blob/main/pic/7f9d5cd0-3cdb-4980-837a-d3dfe822c19d.mp4)
+
 
 # Material
 
