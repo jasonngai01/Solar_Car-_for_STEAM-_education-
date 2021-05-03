@@ -1,6 +1,6 @@
 # Solar_Car_for_STEAM_education
 
-![image](https://github.com/jasonngai01/Solar_Car_for_STEAM_education/blob/main/pic/9aae9017-3979-4233-b6d9-17c3af26629a.jpeg)
+![image](https://github.com/jasonngai01/Solar_Car_for_STEAM_education/blob/main/pic/Solar%20car.jpg)
 
 This project aims to develop a solar car by using the solar panel and the capacitor to give students a good apprecitation on the solar energy with vehicular system in order to increase their awareness of environmental protection.
 
@@ -8,8 +8,9 @@ The circuit design and simulation are at below link. The battery will be replace
 
 https://www.tinkercad.com/things/k6paDEGVuDn-solar-car-circuit
 
-![image](https://github.com/jasonngai01/Solar_Car_for_STEAM_education-/blob/main/pic/circuit.jpg)
+![image](https://github.com/jasonngai01/Solar_Car_for_STEAM_education/blob/main/pic/Solar%20panel%20schemetic%202.jpg)
 
+![image](https://github.com/jasonngai01/Solar_Car_for_STEAM_education/blob/main/pic/Solar%20panel%20schemetic.jpg)
 
 # How to use
 
